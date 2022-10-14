@@ -15,8 +15,9 @@ A list of cool, mega, awesome tools that make web development easier.
      - [Bootstrap Made](https://bootstrapmade.com/) `Clean, elegant and beautiful free website templates`
 
  - Libraries:
-   - Loaders
+   - Loaders:
      - [Whirl](https://whirl.netlify.app/) `CSS loading animations with minimal effort!`
+     - [Loading.css](https://welksonramos.github.io/loading.css/) `Tiny loaders and spinners made with only css and one div`
    - Hamburgers:
      - [Jonsuh's Hamburgers](https://jonsuh.com/hamburgers/) `Tasty CSS-animated hamburgers`
  
