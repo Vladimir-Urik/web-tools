@@ -17,7 +17,7 @@ A list of cool, mega, awesome tools that make web development easier.
  - Libraries:
    - Loaders:
      - [Whirl](https://whirl.netlify.app/) `CSS loading animations with minimal effort!`
-     - [Loading.css](https://welksonramos.github.io/loading.css/) `Tiny loaders and spinners made with only css and one div`
+     - [CSS Loaders](https://cssloaders.github.io/) `This is a library having a collection of different types of CSS loaders, spinners`
    - Hamburgers:
      - [Jonsuh's Hamburgers](https://jonsuh.com/hamburgers/) `Tasty CSS-animated hamburgers`
  
