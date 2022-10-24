@@ -27,3 +27,11 @@ A list of cool, mega, awesome tools that make web development easier.
  - Others:
    - [100L5](https://10015.io/) `All Online Tools in “One Box”`
    - [KaboomJS](https://kaboomjs.com/) `Javascript game programming library`
+
+ - Icons:
+   - [Heroicons](https://heroicons.com/) `Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS`
+   - [Feather](https://feathericons.com/) `Simply beautiful open source icons`
+   - [Material Icons](https://fonts.google.com/icons) `Material Symbols are our newest icons consolidating over 2,500 glyphs in a single font file`
+   - [Bootstrap Icons](https://icons.getbootstrap.com/) `Free, high quality, open source icon library with over 1,600 icons`
+   - [Ant Design Icons](https://ant.design/components/icon/) `Semantic vector graphics.`
+   - [Ionicons](https://ionic.io/ionicons) `Open source icons. Lovingly hand-crafted.`
