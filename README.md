@@ -35,3 +35,4 @@ A list of cool, mega, awesome tools that make web development easier.
    - [Bootstrap Icons](https://icons.getbootstrap.com/) `Free, high quality, open source icon library with over 1,600 icons`
    - [Ant Design Icons](https://ant.design/components/icon/) `Semantic vector graphics.`
    - [Ionicons](https://ionic.io/ionicons) `Open source icons. Lovingly hand-crafted.`
+   - [Lucide](https://lucide.dev/) `Beautiful & consistent icon toolkit made by the community.`
