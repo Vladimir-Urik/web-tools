@@ -36,3 +36,4 @@ A list of cool, mega, awesome tools that make web development easier.
    - [Ant Design Icons](https://ant.design/components/icon/) `Semantic vector graphics.`
    - [Ionicons](https://ionic.io/ionicons) `Open source icons. Lovingly hand-crafted.`
    - [Lucide](https://lucide.dev/) `Beautiful & consistent icon toolkit made by the community.`
+   - [Tabler Icons](https://tabler-icons.io/) `Free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.`
