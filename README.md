@@ -14,6 +14,10 @@ A list of cool, mega, awesome tools that make web development easier.
    - Bootstrap:
      - [Bootstrap Made](https://bootstrapmade.com/) `Clean, elegant and beautiful free website templates`
 
+ - Free Resources:
+   - [FontEnd Resource](https://frontendresource.com/) `A Resource for Front-end Development`
+   - [Free Frontend](https://freefrontend.com/) `Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue) code examples, tutorials and articles.`
+
  - Libraries:
    - Loaders:
      - [Whirl](https://whirl.netlify.app/) `CSS loading animations with minimal effort!`
@@ -37,3 +41,4 @@ A list of cool, mega, awesome tools that make web development easier.
    - [Ionicons](https://ionic.io/ionicons) `Open source icons. Lovingly hand-crafted.`
    - [Lucide](https://lucide.dev/) `Beautiful & consistent icon toolkit made by the community.`
    - [Tabler Icons](https://tabler-icons.io/) `Free and open source icons designed to make your website or app attractive, visually consistent and simply beautiful.`
+   - [CSS.gg](https://css.gg/) `Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API`
