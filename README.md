@@ -3,6 +3,8 @@ A list of cool, mega, awesome tools that make web development easier.
  
 ### List
  - Generators:
+   - FFFuel:
+     - [FFFuel](https://fffuel.co/ooorganize/)
    - Patterns:
      - [PatternPad](https://patternpad.com/) `Design beautiful patterns from endless variations`
    - Backgrounds:
