@@ -4,7 +4,7 @@ A list of cool, mega, awesome tools that make web development easier.
 ### List
  - Generators:
    - FFFuel:
-     - [FFFuel](https://fffuel.co/ooorganize/)
+     - [FFFuel](https://fffuel.co/ooorganize/) `An online SVG generator for various kinds of grid patterns`
    - Patterns:
      - [PatternPad](https://patternpad.com/) `Design beautiful patterns from endless variations`
    - Backgrounds:
