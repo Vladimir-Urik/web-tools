@@ -11,6 +11,8 @@ A list of cool, mega, awesome tools that make web development easier.
      - [Animated Backgrounds](https://animatedbackgrounds.me/) `You can easily set a simple, elegant background animations on your site`
    - Waves:
      - [Get Wawes](https://getwaves.io/) `Make some waves!`
+   - Shadows
+     - [CSS Shadow Gradients](https://alvarotrigo.com/shadow-gradients/) `Generate gradients for your shadows with pure CSS. This generator makes it easy for you.`
 
  - Free Templates:
    - Bootstrap:
@@ -26,6 +28,13 @@ A list of cool, mega, awesome tools that make web development easier.
      - [CSS Loaders](https://cssloaders.github.io/) `This is a library having a collection of different types of CSS loaders, spinners`
    - Hamburgers:
      - [Jonsuh's Hamburgers](https://jonsuh.com/hamburgers/) `Tasty CSS-animated hamburgers`
+   - Buttons:
+     - [UI Buttons](https://ui-buttons.web.app/) `Collection of hand-picked free HTML and CSS button code examples. Updated as of July 2022. 100 new items.`
+   - Toggles:
+     - [MoreToggles.css](https://jnkkkk.github.io/MoreToggles.css/) `A pure CSS library that provides you with a variety of nice-looking toggles.`
+
+ - Colors:
+   - [Happy Hues](https://www.happyhues.co/) `See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.`
  
  - Charts:
    - [Charts CSS](https://chartscss.org/) `modern CSS framework. It uses CSS utility classes to style HTML elements as charts`
